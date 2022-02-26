@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pupuu/Desktop/p5/FindMax.cpp
+FindMax.h
+/Users/pupuu/Desktop/p5/FindMax.h
+iostream
+-
+vector
+-
+
+/Users/pupuu/Desktop/p5/FindMax.h
+vector
+-
+RunFind.h
+/Users/pupuu/Desktop/p5/RunFind.h
+
+/Users/pupuu/Desktop/p5/RunFind.h
+
